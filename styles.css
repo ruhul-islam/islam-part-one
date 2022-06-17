@@ -1,7 +1,7 @@
 body {
     /* Needs to change later */
     font-family: 'Roboto', sans-serif;
-    background-color: white;
+    background-color: #fff;
 }
 
 header {
@@ -30,11 +30,11 @@ header {
 
 .nav-list a {
     text-decoration: none;
-    color: black;
+    color: #000;
 }
 
 .nav-list .btn {
-    color: white;
+    color: #fff;
 }
 
 .nav-list a:hover {
@@ -42,7 +42,7 @@ header {
 }
 
 .nav-list .btn:hover {
-    color: white;
+    color: #fff;
 }
 .btn {
     background-color: #20a8b4;
@@ -64,6 +64,10 @@ header {
     .img {
         display: none;
     }
+}
+
+.sec-f-r {
+    dis
 }
 
 
